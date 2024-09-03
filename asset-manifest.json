@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fea5b38a.css",
-    "main.js": "/static/js/main.7a351ba4.js",
-    "static/js/453.27bcc04b.chunk.js": "/static/js/453.27bcc04b.chunk.js",
-    "static/media/background.jpg": "/static/media/background.5b0131dfd0823c406ca2.jpg",
-    "index.html": "/index.html",
-    "main.fea5b38a.css.map": "/static/css/main.fea5b38a.css.map",
-    "main.7a351ba4.js.map": "/static/js/main.7a351ba4.js.map",
-    "453.27bcc04b.chunk.js.map": "/static/js/453.27bcc04b.chunk.js.map"
+    "main.css": "/YesSheCan/static/css/main.fea5b38a.css",
+    "main.js": "/YesSheCan/static/js/main.831f9048.js",
+    "static/js/453.27bcc04b.chunk.js": "/YesSheCan/static/js/453.27bcc04b.chunk.js",
+    "static/media/background.jpg": "/YesSheCan/static/media/background.5b0131dfd0823c406ca2.jpg",
+    "index.html": "/YesSheCan/index.html",
+    "main.fea5b38a.css.map": "/YesSheCan/static/css/main.fea5b38a.css.map",
+    "main.831f9048.js.map": "/YesSheCan/static/js/main.831f9048.js.map",
+    "453.27bcc04b.chunk.js.map": "/YesSheCan/static/js/453.27bcc04b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fea5b38a.css",
-    "static/js/main.7a351ba4.js"
+    "static/js/main.831f9048.js"
   ]
 }
